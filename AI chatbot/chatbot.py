@@ -109,7 +109,8 @@ def chat():
         print(random.choice(responses))
 
 chat()
-     
+# calling chat function
+
 
 
 
